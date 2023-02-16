@@ -1,36 +1,13 @@
 # ten-thousand-bots
-# Ten Thousand Game
 
-## Version 1
+## Author: Monica Ramirez
 
-- GameLogic class
-  - roll_dice
-  - calculate_score
+## Links and Resources
 
-- Banker
-  - deposit/bank
-  - shelf
-  - clear
+ℹ️ Code for the actual game play was provided by [JB Tellez](https://github.com/JB-Tellez) and can be found [here](https://github.com/codefellows/seattle-code-python-401d20/tree/main/class-43/lab/ten-thousand).
 
-## Version 2
+## Description 
 
-- beginning Game class
-  - allows banking or quitting on first roll of multiple rounds
-  - no rerolls
-  - no zilches
-  - no cheating checks
-- Introducing Flow testing with Flo
+This projects adds a bot to beat an exisiting bot named ***NervousNellie*** in the console game called Ten Thousand. NervousNellie's final score is always above 7000 points. The bot created, ***NelliesNemesis*** always beats NervousNellie's score by at least 100 points.
 
-## Version 3
 
-- validate_keepers
-- get_scorers
-- Advanced Game class
-  - rerolls allowed
-  - using all six dice resets to six dice
-  - zilches happen
-  - cheating is checked
-
-## Version 4
-
-- Bot time
