@@ -8,6 +8,6 @@
 
 ## Description 
 
-This projects adds a bot to beat an exisiting bot named ***NervousNellie*** in the console game called Ten Thousand. NervousNellie's final score is always above 7000 points. The bot created, ***NelliesNemesis*** always beats NervousNellie's score by at least 100 points.
+This projects adds a bot to beat an exisiting bot named ***NervousNellie*** in the console game called Ten Thousand. NervousNellie's final score is always above 7000 points. The bot created, ***NelliesNemesis*** always beats NervousNellie's score by at least 100 points. NelliesNemesis can be found at line 160 in the [bots.py](https://github.com/mramirez92/ten-thousand-bots/blob/main/bots.py) file. 
 
 
